@@ -4,7 +4,7 @@ Material and personal notes related to taking the courses part of [Software Prod
 
 ## Course 1 - Introduction to Software Product Management
 
-The official homepage on is found [here](https://www.coursera.org/learn/introduction-to-software-product-management).
+The official info on the course is at [Coursera](https://www.coursera.org/learn/introduction-to-software-product-management), and my notes on the course are [here](./introduction-to-spdm).
 
 2. [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices?specialization=product-management)
 3. [Client Needs and Software Requirements](https://www.coursera.org/learn/client-needs-and-software-requirements?specialization=product-management)
