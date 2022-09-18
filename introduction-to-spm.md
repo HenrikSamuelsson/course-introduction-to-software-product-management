@@ -19,3 +19,7 @@ Learning goals of the course:
 - The structure of courses within this specialization and the expectations of coursework
 
 ## 1.1.1 Better Software
+
+## 1.2.1 Project Success, Why Agile
+
+Agile practices are guidelines on how software development should be done in the best way.
