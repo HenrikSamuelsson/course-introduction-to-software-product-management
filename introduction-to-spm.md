@@ -22,4 +22,10 @@ Learning goals of the course:
 
 ## 1.2.1 Project Success, Why Agile
 
+There is not a single definition of project success. One definition that sometimes is used is:
+
+> On time, on budget, and to specification
+
+When asking IT-professionals in a survey about the above definition so would the majority value being on time higher than the other two factors from above.
+
 Agile practices are guidelines on how software development should be done in the best way.
