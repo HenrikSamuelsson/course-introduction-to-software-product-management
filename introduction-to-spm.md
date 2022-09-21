@@ -18,9 +18,13 @@ Learning goals of the course:
   - Monitoring
 - The structure of courses within this specialization and the expectations of coursework
 
-## 1.1.1 Better Software
+## Module 1
 
-## 1.2.1 Project Success, Why Agile
+### 1.1.1 Better Software
+
+## Module 2
+
+### 1.2.1 Project Success, Why Agile
 
 There is not a single definition of project success. One definition that sometimes is used is:
 
@@ -29,3 +33,13 @@ There is not a single definition of project success. One definition that sometim
 When asking IT-professionals in a survey about the above definition so would the majority value being on time higher than the other two factors from above.
 
 Agile practices are guidelines on how software development should be done in the best way.
+
+### Agile Manifesto
+
+### Why Process?
+
+### Why Requirements?
+
+### Why Planning?
+
+### Why Monitoring?
