@@ -12,7 +12,7 @@ Learning goals of the course:
 - Introduction to the core values in the Agile Manifesto
 - Introduction of the 12 principles described in the Agile Manifesto
 - Be able to describe four integral components of software product management
-  - Process 
+  - Process
   - Requirements
   - Planning
   - Monitoring
