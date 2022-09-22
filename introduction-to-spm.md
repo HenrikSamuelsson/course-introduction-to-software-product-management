@@ -20,7 +20,15 @@ Learning goals of the course:
 
 ## Module 1
 
-### 1.1.1 Better Software
+### Better Software
+
+### Why Software Product Management?
+
+### The Role of Software Product Manager
+
+### How to be a Better Learner
+
+### Plagiarism
 
 ## Module 2
 
