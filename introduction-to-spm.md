@@ -22,6 +22,14 @@ Learning goals of the course:
 
 ### 1.1.1 Better Software
 
+Better software is achieved by ensuring that the right software product is done right and managed right.
+
+Right product will meet it's needs, be easy to use and learn, and give a good impression in general.
+
+Done right means that product will meets it's specification and pass verification and validation.
+
+Managed right means that communication works in the development and that everyone in working on the right things according to the priorities. It also means that the team is happy and working at a steady sustainable pace.
+
 ## Module 2
 
 ### 1.2.1 Project Success, Why Agile
