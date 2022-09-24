@@ -48,6 +48,8 @@ Agile practices are guidelines on how software development should be done in the
 
 ### Why Requirements?
 
+A requirement describes a need that a product shall full fill. A requirement shall only describe a single need, a product will hence most often have a set of requirements. Requirements shall be documented to avoid confusion about what needs to be done.
+
 ### Why Planning?
 
 ### Why Monitoring?
