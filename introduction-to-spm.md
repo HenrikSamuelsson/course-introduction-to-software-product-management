@@ -60,4 +60,14 @@ A requirement describes a need that a product shall full fill. A requirement sha
 
 ### Why Planning?
 
+The author Alan Lakein calls planning
+
+> Planning is bringing the future into the present so you can do something about it now.
+
+Wikipedia defines planning as
+
+> Planning is the process of thinking regarding the activities required to achieve a desired goal, planning is anticipating monitoring and review.
+
+Planning gives an estimate an a early stage about the feasibility of a project. Proper planning reduces risk of failure when reserve plans are developed during the planning process. Planning provides a guide for action. Planning improves resource utilization. Plans provides motivation and commitment by enabling people to understand what is expected of them and believe that the goals are feasible.
+
 ### Why Monitoring?
