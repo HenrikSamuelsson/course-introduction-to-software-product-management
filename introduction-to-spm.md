@@ -52,6 +52,13 @@ Agile practices are guidelines on how software development should be done in the
 
 ### Agile Manifesto
 
+The four core values of the Manifesto for Agile Software Development are stated as:
+
+> Individuals and interactions over processes and tools  
+> Working software over comprehensive documentation  
+> Customer collaboration over contract negotiation  
+> Responding to change over following a plan  
+
 ### Why Process?
 
 ### Why Requirements?
