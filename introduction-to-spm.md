@@ -52,7 +52,7 @@ Agile practices are guidelines on how software development should be done in the
 
 ### Agile Manifesto
 
-The four core values of the Manifesto for Agile Software Development are stated as:
+The four core values of the Manifesto for Agile Software Development are stated as follows:
 
 > Individuals and interactions over processes and tools  
 > Working software over comprehensive documentation  
@@ -61,17 +61,19 @@ The four core values of the Manifesto for Agile Software Development are stated 
 
 ### Why Process?
 
+A process organizes how the work happens in distinct phases during the development of a product.
+
 ### Why Requirements?
 
-A requirement describes a need that a product shall full fill. A requirement shall only describe a single need, a product will hence most often have a set of requirements. Requirements shall be documented to avoid confusion about what needs to be done.
+A requirement describes a need that a product shall full fill. A requirement shall only describe a single need, a product will hence most often have a set of requirements. Requirements shall be clear and documented, to avoid confusion between the client and the developers about what needs to be done.
 
 ### Why Planning?
 
-The author Alan Lakein calls planning
+The author Alan Lakein describes planning in the following way:
 
 > Planning is bringing the future into the present so you can do something about it now.
 
-Wikipedia defines planning as
+Wikipedia defines planning as:
 
 > Planning is the process of thinking regarding the activities required to achieve a desired goal, planning is anticipating monitoring and review.
 
