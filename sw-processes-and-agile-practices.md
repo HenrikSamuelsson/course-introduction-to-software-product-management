@@ -47,6 +47,16 @@ There are generally four main software engineering activities:
 - Design and implementation
 - Verification and validation
 
+Project management in ongoing for the entire project duration and includes tasks related to:
+
+- Creating a process
+- Setting standards
+- Managing risks
+- Performing estimations
+- Allocating resources
+- Making measurements
+- Improving process
+
 ## Process Models
 
 ## Agile Practices
