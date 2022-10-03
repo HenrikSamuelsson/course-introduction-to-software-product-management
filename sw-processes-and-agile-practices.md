@@ -51,4 +51,6 @@ There are generally four main software engineering activities:
 
 ## Agile Practices
 
+Practice is defined as a technique, rule, or guideline intended to make a process more effective. Software development practices that are based upon the Manifesto for Agile Software Development are called Agile practices. A set of practices that together are complete enough to support the entire development life cycle is known as a methodology. Methodologies based on Agile practices are known as Agile methodologies. Example of Agile methodologies are Extreme Programming, Scrum, and Lean.
+
 ## Other Practices
