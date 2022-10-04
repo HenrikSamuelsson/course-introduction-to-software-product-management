@@ -54,3 +54,13 @@ There are generally four main software engineering activities:
 Practice is defined as a technique, rule, or guideline intended to make a process more effective. Software development practices that are based upon the Manifesto for Agile Software Development are called Agile practices. A set of practices that together are complete enough to support the entire development life cycle is known as a methodology. Methodologies based on Agile practices are known as Agile methodologies. Example of Agile methodologies are Extreme Programming, Scrum, and Lean.
 
 ## Other Practices
+
+### Extreme Programming - XP
+
+Extreme Programming is an Agile methodology that combines 12 effective development practices with the goal to acheive client satisfaction.
+
+|12 Practices of XP | | | |
+|---|---|---|---|
+|The Planning Game|Simple Design|Pair Programming|40 Hour Work Week|
+|Small Releases|Continuous Testing|Collective Cede Ownership|On-Site Customer|
+|System Metaphor|Refactoring|Continuous Integration|Coding Standards|
