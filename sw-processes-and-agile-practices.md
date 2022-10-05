@@ -62,5 +62,11 @@ Extreme Programming is an Agile methodology that combines 12 effective developme
 |12 Practices of XP | | | |
 |---|---|---|---|
 |The Planning Game|Simple Design|Pair Programming|40 Hour Work Week|
-|Small Releases|Continuous Testing|Collective Cede Ownership|On-Site Customer|
+|Small Releases|Continuous Testing|Collective Code Ownership|On-Site Customer|
 |System Metaphor|Refactoring|Continuous Integration|Coding Standards|
+
+#### The Planning Game
+
+Planning is done in collaboration by the client and the development team. Planning is done at the start of each iteration phase during the entire project development, but with a more extensive planning session at the start of the project.
+
+Planning includes discussions on features, their priorities, and viable release schedule. The smaller planning sessions will be more detailed about the individual features to be developed and released in the upcoming iteration.
