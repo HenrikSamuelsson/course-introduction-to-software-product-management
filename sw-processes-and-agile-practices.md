@@ -71,6 +71,10 @@ Planning is done in collaboration by the client and the development team. Planni
 
 Planning includes discussions on features, their priorities, and viable release schedule. The smaller planning sessions will be more detailed about the individual features to be developed and released in the upcoming iteration.
 
+#### Small Releases
+
+Small releases means more demos and this results in more feedback from the client which is desirable. Having a small planned release also makes the estimation simpler and more accurate.
+
 #### Simple Design
 
 XP defines simple design of the code as:
@@ -80,4 +84,4 @@ XP defines simple design of the code as:
 - States the programmers intent for the code clearly
 - Contains the fewest possible classes and methods
 
-There is in XP and acronym called YAGNI that stands for You Are Not Going to Need It and this means that code should never be added because you think yoy might need it in the future. Often this type of code will never be used and it will just be left there cluttering up the code base.
+There is in XP and acronym called YAGNI that stands for You Are Not Going to Need It and this means that code should never be added because you think yoy might need it in the future. Often this type of code will never be used and it will just be left there cluttering up the code base. Do not over-engineer the design for a future that may not come.
