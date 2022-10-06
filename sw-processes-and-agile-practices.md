@@ -57,7 +57,7 @@ Practice is defined as a technique, rule, or guideline intended to make a proces
 
 ### Extreme Programming - XP
 
-Extreme Programming is an Agile methodology that combines 12 effective development practices with the goal to acheive client satisfaction.
+Extreme Programming (XP) is an Agile methodology that combines 12 effective development practices with the goal to acheive client satisfaction.
 
 |12 Practices of XP | | | |
 |---|---|---|---|
@@ -70,3 +70,14 @@ Extreme Programming is an Agile methodology that combines 12 effective developme
 Planning is done in collaboration by the client and the development team. Planning is done at the start of each iteration phase during the entire project development, but with a more extensive planning session at the start of the project.
 
 Planning includes discussions on features, their priorities, and viable release schedule. The smaller planning sessions will be more detailed about the individual features to be developed and released in the upcoming iteration.
+
+#### Simple Design
+
+XP defines simple design of the code as:
+
+- Tests runs and passes
+- No duplicate code
+- States the programmers intent for the code clearly
+- Contains the fewest possible classes and methods
+
+There is in XP and acronym called YAGNI that stands for You Are Not Going to Need It and this means that code should never be added because you think yoy might need it in the future. Often this type of code will never be used and it will just be left there cluttering up the code base.
