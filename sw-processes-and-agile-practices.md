@@ -75,6 +75,10 @@ Planning includes discussions on features, their priorities, and viable release 
 
 Small releases means more demos and this results in more feedback from the client which is desirable. Having a small planned release also makes the estimation simpler and more accurate.
 
+#### System Metaphor
+
+A system metaphor is used to explain a system to non technical stakeholders. The system metaphor enables everyone; clients, developers, and managers to understand and being able to discuss how the system works. The system metaphor is realized by giving each chunk of the code its own name. These names are choses so that they are understandable by all stakeholders of the project. For example if developing an app for purchasing clothes there would be chunks of code known as shopping cart, inventory, item, department list, and checkout.
+
 #### Simple Design
 
 XP defines simple design of the code as:
