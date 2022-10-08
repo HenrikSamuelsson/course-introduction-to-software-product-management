@@ -99,3 +99,7 @@ XP defines simple design of the code as:
 - Contains the fewest possible classes and methods
 
 There is in XP and acronym called YAGNI that stands for You Are Not Going to Need It and this means that code should never be added because you think yoy might need it in the future. Often this type of code will never be used and it will just be left there cluttering up the code base. Do not over-engineer the design for a future that may not come.
+
+#### Continuous Testing
+
+In XP tests are prepared and written before the actual source code is written. The tests shall be automated enabling them to be run continuously again and again with little effort as new source code is added to the project. The test suite is split into different types of tests, for example acceptance tests and unit tests. Acceptance test will usually involve something an user interaction with the system an tests large parts of the system in one go. If something fails in acceptance test there might not be an direct way to pinpoint the source of the failure exactly due to that the test involves many components of the system. Unit test are test that run on a lower level than the acceptance test and only test a small part of the system. Unit tests are more detailed and are written by the developers during the development. Unit test verifies each individual part of the software before it is integrated in together with other parts of the software. Both unit tests and acceptance test can, and should be automated.
