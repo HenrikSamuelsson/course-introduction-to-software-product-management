@@ -59,6 +59,18 @@ Project management in ongoing for the entire project duration and includes tasks
 
 ## Process Models
 
+A software process model is an abstract representation of the development process. Various process models are described in the following sections. Each model comes with both benefits and drawbacks. Every process model will not be a good fit for every software development project. Having a basic knowledge on various process models enables us to choose a correct model for a given software project.
+
+### Linear Models
+
+### Spiral Model
+
+### Unified Process
+
+### Prototyping
+
+### Continuous Delivery
+
 ## Agile Practices
 
 Practice is defined as a technique, rule, or guideline intended to make a process more effective. Software development practices that are based upon the Manifesto for Agile Software Development are called Agile practices. A set of practices that together are complete enough to support the entire development life cycle is known as a methodology. Methodologies based on Agile practices are known as Agile methodologies. Example of Agile methodologies are Extreme Programming, Scrum, and Lean.
