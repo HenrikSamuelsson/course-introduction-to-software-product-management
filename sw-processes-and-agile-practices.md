@@ -63,6 +63,14 @@ A software process model is an abstract representation of the development proces
 
 ### Linear Models
 
+Linear process model follow a strategy where phases are completed one by one. After a phase is completed the next phase is started. There is no way back to a previous phase once it has been completed.
+
+#### Waterfall Model
+
+#### V-Model
+
+#### Saw Tooth Model
+
 ### Spiral Model
 
 ### Unified Process
