@@ -132,3 +132,15 @@ There is in XP and acronym called YAGNI that stands for You Are Not Going to Nee
 In XP tests are prepared and written before the actual source code is written. The tests shall be automated enabling them to be run continuously again and again with little effort as new source code is added to the project. The test suite is split into different types of tests, for example acceptance tests and unit tests. Acceptance test will usually involve something an user interaction with the system an tests large parts of the system in one go. If something fails in acceptance test there might not be an direct way to pinpoint the source of the failure exactly due to that the test involves many components of the system. Unit test are test that run on a lower level than the acceptance test and only test a small part of the system. Unit tests are more detailed and are written by the developers during the development. Unit test verifies each individual part of the software before it is integrated in together with other parts of the software. Both unit tests and acceptance test can, and should be automated.
 
 ## Other Practices
+
+### Lean Software Development
+
+Lean Software Development is a methodology inspired by the manufacturing industry where the concept called Lean was born. There are seven principles that summarizes this methodology:
+
+ - Eliminate waste
+ - Amplify learning
+ - Decide as late as possible
+ - Deliver as fast as possible
+ - Empower the team
+ - Build quality in
+ - See the whole
