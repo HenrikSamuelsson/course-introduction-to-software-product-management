@@ -137,10 +137,10 @@ In XP tests are prepared and written before the actual source code is written. T
 
 Lean Software Development is a methodology inspired by the manufacturing industry where the concept called Lean was born. There are seven principles that summarizes this methodology:
 
- - Eliminate waste
- - Amplify learning
- - Decide as late as possible
- - Deliver as fast as possible
- - Empower the team
- - Build quality in
- - See the whole
+    - Eliminate waste
+    - Amplify learning
+    - Decide as late as possible
+    - Deliver as fast as possible
+    - Empower the team
+    - Build quality in
+    - See the whole
