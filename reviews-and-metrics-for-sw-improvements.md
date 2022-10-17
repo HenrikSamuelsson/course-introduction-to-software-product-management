@@ -4,6 +4,14 @@ Notes on the course Reviews and Metrics for Software Improvements.This course co
 
 ## Right Product
 
+### Introduction to Monitoring
+
+### Sprint Review Meeting
+
+### User Studies
+
+### Industry Examples
+
 ## Done Right
 
 ## Managed Right
