@@ -4,6 +4,10 @@ Notes on the course Reviews and Metrics for Software Improvements.This course co
 
 ## Right Product
 
+This first module in the course focuses on ensuring that the right product is being delivered. A product that covers the users needs in an effective way.
+
+Reminder on terms the terms verification and validation. Verification means ensuring that the product works as intended according to the requirements. Validation on the other hand refers to that the product shall meet the needs of the stakeholders. Stakeholders are both the client and the end-users.
+
 ### Introduction to Monitoring
 
 ### Sprint Review Meeting
