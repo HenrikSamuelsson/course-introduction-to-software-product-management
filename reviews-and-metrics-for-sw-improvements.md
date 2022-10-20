@@ -68,6 +68,18 @@ Metric: Availability of external courses
 
 ### Desirable Properties of Metrics
 
+There are three terms that need to be known when discussing metrics
+
+- measure
+- metric
+- indicator
+
+A measure is a standardized unit for measurement. For example meter, bug, or story point. It is important the measure is consistent to be able to measure metrics.
+
+A metric is a combination of two or more measures combined in a meaningful way. For example meter per second, or story points per sprint.
+
+An indicator is a measure that gives useful information. A cars velocity being a bit below the regulated speed limit is an example of an indicator that gives information that the speed is considered safe and the driver will not be fined by the traffic police.
+
 ### Other Metrics
 
 ### Defect Analysis
