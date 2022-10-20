@@ -49,6 +49,23 @@ One scenario with an issue is to have requirements on documenting things in Word
 
 ### Goal Quality Metric (GQM)
 
+Goal Quality Metric (GQM) is a framework used for for improving software quality and other aspects of software development.
+
+A goal is setup for what is to be achieved then a set of questions is used to define a model of the object to be improved, finally metrics are established based on the model that shall answer the questions in a measurable way.
+
+Example of the QGM process:
+
+- Purpose: Evaluate
+- Object: Test Framework
+- Viewpoint: From the test builders point of view
+- Issue: The learning time and effectiveness of
+
+Question: Is the framework documented properly to be able to learn it
+
+Metric: Readability of help documentation
+Metric: Availability of tutorials
+Metric: Availability of external courses
+
 ### Desirable Properties of Metrics
 
 ### Other Metrics
