@@ -82,6 +82,21 @@ An indicator is a measure that gives useful information. A cars velocity being a
 
 ### Other Metrics
 
+Other popular metrics are:
+
+- Maintainability
+- Performance
+- Reliability
+- Product Success
+
+Maintainability is related to how complex the source code is. For example so are long functions that does many things considered more complex than having multiple small functions that do one thing. The multiple small functions will however need to be combined to acheive the desired functionality.
+
+Performance will generally involving measuring time, such as te response time of a server or the time needed for an algorithm to complete.
+
+Reliability is measured be checking the up-time of the system or by measuring how often a software crashes at run-time.
+
+Product success can be measured by customer satisfaction such as user grading or number of downloads.
+
 ### Defect Analysis
 
 ## Managed Right
