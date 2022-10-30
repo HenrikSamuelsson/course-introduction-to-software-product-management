@@ -59,11 +59,38 @@ Project management in ongoing for the entire project duration and includes tasks
 
 ## Process Models
 
+A software process model is an abstract representation of the development process. Various process models are described in the following sections. Each model comes with both benefits and drawbacks. Every process model will not be a good fit for every software development project. Having a basic knowledge on various process models enables us to choose a correct model for a given software project.
+
+### Linear Models
+
+Linear process model follow a strategy where phases are completed one by one. After a phase is completed the next phase is started. There is no way back to a previous phase once it has been completed.
+
+#### Waterfall Model
+
+#### V-Model
+
+#### Saw Tooth Model
+
+### Spiral Model
+
+### Unified Process
+
+### Prototyping
+
+### Continuous Delivery
+
+Continuous delivery is based on a staged delivery model with four phases:
+
+- Requirement specification
+- Planning
+- Implementation and Testing
+- Closure
+
+Each phase has a defined output delivery and the product is always in a releasable state at the end of the phase completion, at least in theory.
+
 ## Agile Practices
 
 Practice is defined as a technique, rule, or guideline intended to make a process more effective. Software development practices that are based upon the Manifesto for Agile Software Development are called Agile practices. A set of practices that together are complete enough to support the entire development life cycle is known as a methodology. Methodologies based on Agile practices are known as Agile methodologies. Example of Agile methodologies are Extreme Programming, Scrum, and Lean.
-
-## Other Practices
 
 ### Extreme Programming - XP
 
@@ -103,3 +130,17 @@ There is in XP and acronym called YAGNI that stands for You Are Not Going to Nee
 #### Continuous Testing
 
 In XP tests are prepared and written before the actual source code is written. The tests shall be automated enabling them to be run continuously again and again with little effort as new source code is added to the project. The test suite is split into different types of tests, for example acceptance tests and unit tests. Acceptance test will usually involve something an user interaction with the system an tests large parts of the system in one go. If something fails in acceptance test there might not be an direct way to pinpoint the source of the failure exactly due to that the test involves many components of the system. Unit test are test that run on a lower level than the acceptance test and only test a small part of the system. Unit tests are more detailed and are written by the developers during the development. Unit test verifies each individual part of the software before it is integrated in together with other parts of the software. Both unit tests and acceptance test can, and should be automated.
+
+## Other Practices
+
+### Lean Software Development
+
+Lean Software Development is a methodology inspired by the manufacturing industry where the concept called Lean was born. There are seven principles that summarizes this methodology:
+
+    - Eliminate waste
+    - Amplify learning
+    - Decide as late as possible
+    - Deliver as fast as possible
+    - Empower the team
+    - Build quality in
+    - See the whole
