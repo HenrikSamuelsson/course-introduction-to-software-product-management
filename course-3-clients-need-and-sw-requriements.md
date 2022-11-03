@@ -12,6 +12,8 @@ The following definition of a requirement is used in the course:
 
 ## User Interaction
 
+This module is about client interactions and requirements elicitation and expression.
+
 ## Writing Requirements
 
 ## Quality Requirements
