@@ -14,9 +14,19 @@ The following definition of a requirement is used in the course:
 
 This module is about client interactions and requirements elicitation and expression.
 
-## Restaurant Scenario
+### Restaurant Scenario
 
 An app for ordering food at an restaurant will be the basis for material discussed in this module. The desire of the client is that the app shall have a set of features related to ordering food, such as special view for kids, possibility to notify the kitchen about special requirements on the food, and it shall be possible to pay for the food through the app.
+
+### User Considerations
+
+### Involving Clients
+
+### Use Cases
+
+### Wireframes
+
+### Storyboards
 
 ## Writing Requirements
 
