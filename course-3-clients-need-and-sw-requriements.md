@@ -24,6 +24,21 @@ An app for ordering food at an restaurant will be the basis for material discuss
 
 ### Use Cases
 
+Use case explains a given feature of the product in a way that every one can comprehend regardless of background and formal training. Use cases help to organize and clarify what a product shall do.
+
+Use cases are commonly organized in tables wih some or all of the following elements:
+
+- Name
+- Participating Actors
+- Goals
+- Triggers
+- Pre-Condition
+- Post-Condition
+- Basic Flow
+- Alternate Flows
+- Exceptions
+- Qualities
+
 ### Wireframes
 
 ### Storyboards
