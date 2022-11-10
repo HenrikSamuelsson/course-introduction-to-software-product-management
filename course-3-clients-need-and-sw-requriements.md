@@ -45,4 +45,17 @@ Use cases are commonly organized in tables wih some or all of the following elem
 
 ## Writing Requirements
 
+### Agile Requirements
+
+Requirements are an integral part of agile. Requirements will often change as more facets of the products are discovered during product development. Agile methodologies support changes to requirements
+by integrating the customer and working iteratively with feedback built in to the process.
+
+### User Stories
+
+### Acceptance Tests
+
+### Product Backlog
+
+### Story Maps
+
 ## Quality Requirements
