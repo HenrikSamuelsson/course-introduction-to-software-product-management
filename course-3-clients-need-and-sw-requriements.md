@@ -52,6 +52,20 @@ by integrating the customer and working iteratively with feedback built in to th
 
 ### User Stories
 
+User stories express requirements in a consistent format intended to make them easy to write and understand:
+
+> As a **who**  
+> I want to **what**  
+> So that **why**
+
+Who is a type of use, what is a goal, and why is a reason.
+
+A concrete example of a user story from a job bank application:
+
+> As a job seeker  
+> I want to see job openings in a location zone  
+> so that the commute distance is viable
+
 ### Acceptance Tests
 
 ### Product Backlog
