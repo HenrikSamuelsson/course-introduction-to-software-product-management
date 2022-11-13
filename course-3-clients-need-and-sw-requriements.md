@@ -68,6 +68,32 @@ A concrete example of a user story from a job bank application:
 
 ### Acceptance Tests
 
+Acceptance tests verifies that the requirement described by a user story have been meet. There is a link between user stories and acceptance test, sometimes if having written user stories on index cards so are the acceptance test written on the back of the index card.
+
+An acceptance test is built on a set of acceptance criteria's. Acceptance tests and acceptance criteria's shall be written in simple straightforward way without room for different interpretations.
+
+Note that acceptance criteria an acceptance test are not the same thing.
+
+Acceptance criteria is one condition that need to be met in order to accept the story as complete. There will usually be multiple acceptance criteria's for a given story.
+
+Acceptance test is a scenarios which is derived from acceptance criteria.
+
+Example of acceptance criteria's for registering at a site with different forms of credentials:
+
+- Registration shall be able to be made with a chosen password and email address
+- Registration shall be able to be made with an existing Facebook account
+- Registration shall be able to be made with an existing Google account
+- Already used credentials shall not be able to be used again
+- Credential shall be verified for correctness
+
+Acceptance test for trying to register with an already registered email:
+
+ 1. Chose to register with user name and email password
+ 2. Fill in a password in the displayed password field
+ 3. Fill in a already registered email address in the email field
+ 4. Confirm that a message is display that the email was not accepted du to being used already
+ 5. Confirm that there is a button for requesting a password reset email  
+
 ### Product Backlog
 
 ### Story Maps
