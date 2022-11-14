@@ -96,6 +96,12 @@ Acceptance test for trying to register with an already registered email:
 
 ### Product Backlog
 
+A product back log is a list of task of what needs to be done during a development project. The main part of the task will be related to user stories and requirements but can also be knowledge tasks to learn something, bugs to be corrected, physical tasks like setup of test systems.
+
+The work shall be split into smaller parts by having features or different user stories. Each of these parts shall then be prioritized by the clent, the most important tasks are placed at the top of the back log and shall be done first. Task that are blocked will be push down in the backlog.
+
+The backlog is important for planning in Scrum where for each sprint (iteration) a number of back log items are planned in to be done. After then after a number of sprints there will be a release.
+
 ### Story Maps
 
 ## Quality Requirements
