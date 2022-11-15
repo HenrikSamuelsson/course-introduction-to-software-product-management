@@ -102,6 +102,8 @@ The work shall be split into smaller parts by having features or different user 
 
 The backlog is important for planning in Scrum where for each sprint (iteration) a number of back log items are planned in to be done. After then after a number of sprints there will be a release.
 
+The backlog will be reorganized during the product development. user stories priority will be changed as new things are discovered. New tasks will commonly be added and tasks might be removed due to not being need to be done at all.
+
 ### Story Maps
 
 ## Quality Requirements
