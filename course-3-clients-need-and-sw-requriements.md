@@ -105,3 +105,9 @@ The backlog is important for planning in Scrum where for each sprint (iteration)
 ### Story Maps
 
 ## Quality Requirements
+
+### Criteria for User Stories
+
+### Ambiguous Requirements
+
+### Course Summary
