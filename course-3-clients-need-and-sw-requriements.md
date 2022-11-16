@@ -106,6 +106,12 @@ The backlog will be reorganized during the product development. user stories pri
 
 ### Story Maps
 
+Story maps shows what to build and maintain visibility for how it all fits together. They enable user-centred conversations, collaboration, and feature prioritization to align and guide iterative product development.
+
+A story map is a two-dimensional view with cards/cells organized rows and columns. Top rows holds an overview about what should be done an details about tasks/functionality are added in the content of the lower rows. More prioritized tasks are organized higher up than low priority tasks.
+
+A correctly organized story map will enable for everyone in the team to understand what will be need to developed first to at least have a "walking skeleton" product ready as soon as possible.
+
 ## Quality Requirements
 
 ### Criteria for User Stories
