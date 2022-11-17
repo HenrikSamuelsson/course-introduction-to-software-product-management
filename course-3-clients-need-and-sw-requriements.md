@@ -125,6 +125,15 @@ A correctly organized story map will enable for everyone in the team to understa
 
 ### Criteria for User Stories
 
+Beyond the qualities described by the INVEST mnemonic so are there several other criteria that user stories should meet:
+
+- Correctness: Mistakes in user stories mean developing the wrong thing and this is waste
+- Completeness: Missing information will lead to a product with missing features in the implementation
+- Clearness: Leave as little as possible up for interpretation and guessing
+- Consistency: Not possible to know hom to develop if it says different things at different places
+- Feasibility: Must realistic to acheive the development goals technically and with the available resources
+- Traceability: Requirements and user stories shall be linked to the produced artifacts such as code and tests
+
 ### Ambiguous Requirements
 
 ### Course Summary
