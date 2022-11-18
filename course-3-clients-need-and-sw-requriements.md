@@ -136,4 +136,8 @@ Beyond the qualities described by the INVEST mnemonic so are there several other
 
 ### Ambiguous Requirements
 
+A requirements can be ambiguous if it has multiple interpretations, or if it does not provide all necessary details.
+
+Terms like "and so on" and "Et ceterea" are used for brevity and this means that they are actually designed to be able to leave out details. Hence these types of terms should not be used in requirements because they leave room for interpretation.
+
 ### Course Summary
