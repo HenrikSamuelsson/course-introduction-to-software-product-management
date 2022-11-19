@@ -138,6 +138,22 @@ Beyond the qualities described by the INVEST mnemonic so are there several other
 
 A requirements can be ambiguous if it has multiple interpretations, or if it does not provide all necessary details.
 
+12 different categories of words that can cause ambiguous requirements are presented:
+
+1. Indirect words
+2. Vague words
+3. Completion words
+4. Persuasion words
+5. Qualifiers
+6. Comparatives
+7. Quantities
+8. Pronouns
+9. Positional words
+10. Temporal words
+11. Joining words
+
+#### Completion words
+
 Terms like "and so on" and "Et cetera" are used for brevity and this means that they are actually designed to be able to leave out details. Hence these types of terms should not be used in requirements because they leave room for interpretation.
 
 ### Course Summary
