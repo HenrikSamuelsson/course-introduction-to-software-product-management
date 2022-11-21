@@ -75,6 +75,8 @@ User stories can be evaluated using the mnemonic INVEST which stands for:
 - Small
 - Testable
 
+A user story shall by trace during development. A traceable user story mainly means that it can be traced to the code that implements it.
+
 ### Acceptance Tests
 
 Acceptance tests verifies that the requirement described by a user story have been meet. There is a link between user stories and acceptance test, sometimes if having written user stories on index cards so are the acceptance test written on the back of the index card.
