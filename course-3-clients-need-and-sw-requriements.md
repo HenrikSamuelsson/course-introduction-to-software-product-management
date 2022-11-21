@@ -159,3 +159,15 @@ A requirements can be ambiguous if it has multiple interpretations, or if it doe
 Terms like "and so on" and "Et cetera" are used for brevity and this means that they are actually designed to be able to leave out details. Hence these types of terms should not be used in requirements because they leave room for interpretation.
 
 ### Course Summary
+
+Some things learned during the course are listed in this section.
+
+Primary user explicitly interact with the product. Secondary users use the product occasionally or through an intermediary. Tertiary users do not directly use the product but are still somehow affected by the product.
+
+Requirements can be expressed in different ways, three of these ways are:
+
+1. Use cases
+2. Wire frames
+3. Story boards
+
+Besides these three ways there is also user stories, that are expressed on the form "As a ... , I want ... , so that ... .
