@@ -75,7 +75,7 @@ User stories can be evaluated using the mnemonic INVEST which stands for:
 - Small
 - Testable
 
-A user story shall by trace during development. A traceable user story mainly means that it can be traced to the code that implements it.
+User stories shall also be traced, a traceable user story mainly means that it can be traced to the code that implements it. One way to acheive this is to have an identifier for each user story and tag commit messages or the code itself with this identifier.
 
 ### Acceptance Tests
 
