@@ -154,9 +154,13 @@ A requirements can be ambiguous if it has multiple interpretations, or if it doe
 10. Temporal words
 11. Joining words
 
-#### Completion words
+#### Completion Words
 
 Terms like "and so on" and "Et cetera" are used for brevity and this means that they are actually designed to be able to leave out details. Hence these types of terms should not be used in requirements because they leave room for interpretation.
+
+#### Temporal Words
+
+Temporal words are words that relate to time or events, like when, for, until, from, current, and last. These word can cause requirements to be ambiguous, for example "As a runner, I want the lap timer to set to zero when I start a lap around the track, so that I can monitor my pace." It can here be unclear if "when I start a lap" means the start of the first lap only or each time the start line is passed, in the case that the runner rust several laps in one session.
 
 ### Course Summary
 
