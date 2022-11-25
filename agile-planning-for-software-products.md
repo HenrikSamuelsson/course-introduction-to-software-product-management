@@ -2,10 +2,6 @@
 
 Notes on the the course Agile Planning for Software Products.
 
-## Introduction to Planning
-
-### Introduction
-
 This course covers the techniques required to break down and map requirements into plans to drive software production.
 
 Upon successful completion of this course, you will be able to:
@@ -16,8 +12,14 @@ Upon successful completion of this course, you will be able to:
 - Apply velocity-driven planning techniques
 - Generate work estimates for software products
 
-## Project Planning
+## Module 1 Introduction to Planning
 
-## Iteration Planning
+### Introduction to Planning
 
-## Risk Planning
+
+
+## Module 2 Project Planning
+
+## Module 3 Iteration Planning
+
+## Module 4 Risk Planning
