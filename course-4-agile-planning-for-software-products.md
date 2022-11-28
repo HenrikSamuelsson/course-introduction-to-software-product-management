@@ -14,9 +14,22 @@ Upon successful completion of this course, you will be able to:
 
 ## Module 1 Introduction to Planning
 
+Module 1 covers:
+
+- Major uncertainties that projects need to resolve
+- How to break down work into manageable pieces
+- The difference between:
+  - estimate
+  - target
+  - commitment
+
 ### Introduction to Planning
 
+### Uncertainty Space
 
+### Work Breakdown Structure
+
+### Estimates, Targets, and Commitments
 
 ## Module 2 Project Planning
 
