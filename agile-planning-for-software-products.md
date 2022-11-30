@@ -26,6 +26,18 @@ Recall of some terms introduced in other courses in this specialization:
 | task | Small, manageable work item part of a  project |
 | work product | Intermediate product produced by a task in a project|
 
+### Uncertainty Space
+
+There are basically two types of uncertainties in a project:
+
+- What is to be created?
+- How will it be created?
+
+There will a high degree of uncertainty at the beginning of the project and the uncertainty will shrink as the project is completed.
+
+The two types of uncertainty can be graphed in a two dimensional chart with "what" in the vertical  direction and "how" in the horizontal direction. These types of graphs are called the uncertainty space.
+
+The uncertainty space graphs will look different depending on how the project is executed. In water fall so will the "what" part increase early because there is a lot of up front planning. On the other side if having an ad-hoc approach so will the "how" part be dominant at the start of the project since in this type of project you will just start implementing without much planning.
 
 ## Module 2 Project Planning
 
