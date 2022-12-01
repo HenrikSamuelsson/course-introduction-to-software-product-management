@@ -39,6 +39,16 @@ The two types of uncertainty can be graphed in a two dimensional chart with "wha
 
 The uncertainty space graphs will look different depending on how the project is executed. In water fall so will the "what" part increase early because there is a lot of up front planning. On the other side if having an ad-hoc approach so will the "how" part be dominant at the start of the project since in this type of project you will just start implementing without much planning.
 
+### Work Breakdown Structure
+
+A work break down structure is a hierarchical structure in which a project as a whole is split into smaller manageable parts. The hierarchy of the work break down structure can be viewed visually be creating a tree view of the project. For example by the large parts on the top and then letting each part branch out to show more details in the bottom.
+
+Benefits of doing a work break down structure is:
+
+- Simplifies estimates becaus a small step is easier to estimates
+- Enables parallel development work because of the split of the project into chunks
+- Enables tracking of progress and resource planning
+
 ## Module 2 Project Planning
 
 ## Module 3 Iteration Planning
