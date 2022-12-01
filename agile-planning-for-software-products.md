@@ -30,8 +30,8 @@ Recall of some terms introduced in other courses in this specialization:
 
 There are basically two types of uncertainties in a project:
 
-- What is to be created?
-- How will it be created?
+- What is to be created, also known as the ends
+- How will it be created, also known as the means
 
 There will a high degree of uncertainty at the beginning of the project and the uncertainty will shrink as the project is completed.
 
