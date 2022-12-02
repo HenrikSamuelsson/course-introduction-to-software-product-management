@@ -51,6 +51,10 @@ Benefits of doing a work break down structure is:
 
 ## Module 2 Project Planning
 
+### Story Points
+
+A story point is a unit of measurement for estimating the effort needed to complete a task. A simple task will typically be assigned one story point and more complex tasks will be assigned more points.
+
 ## Module 3 Iteration Planning
 
 ## Module 4 Risk Planning
