@@ -55,6 +55,8 @@ Benefits of doing a work break down structure is:
 
 A story point is a unit of measurement for estimating the effort needed to complete a task. A simple task will typically be assigned one story point and more complex tasks will be assigned more points.
 
+Story points are purposely a vague measurement of time. This relates well with that estimations of how long a SW task will take is only a educated guess. Estimating tasks in story points instead of time takes away a bit of pressure on the developers because when estimating in time this can be taken as a commitment by the managers. Story points makes it more clear that there is in reality no way to be exactly sure when things are done but there is at least a rough idea that can be used for planning future work.
+
 ## Module 3 Iteration Planning
 
 ## Module 4 Risk Planning
