@@ -79,6 +79,17 @@ As with all statistics it is easy to cheat and interpret the data in different w
 
 ### Time Boxing
 
+### Gantt Charts
+
+Gantt charts is a type of bar charts used to visualize project schedule and progress. This type of chart also shows dependencies among the tasks.
+
+The tasks are listed vertically to the left and then there is a timeline with time periods (can be weeks or sprints) at the top of the chart that stretches out from the task lists. The tasks to be completed first are placed first followed by tasks to be completed later. A bar for each task is placed on the time line part of the task. The length of the bar is proportional to the effort for the task.
+
+Gantt charts will typically look like a stair case going down from lift to right. The project is finished when at the bottom of the stair case.
+
+There are obvious similarities between the Gantt charts and the waterfall model but Gantt charts can be used in agile contexts as well but might need to be kept up to date more since scope and timing tend to change in agile development as the project evolves.
+
+Gantt charts can be used for low-level task tracking as well as high level release tracking.
 
 ## Module 3 Iteration Planning
 
