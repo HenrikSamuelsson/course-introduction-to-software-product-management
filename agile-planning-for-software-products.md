@@ -14,6 +14,15 @@ Upon successful completion of this course, you will be able to:
 
 ## Module 1 Introduction to Planning
 
+Covers:
+
+- Major uncertainties that projects need to resolve
+- How to break down work into manageable pieces
+- The difference between:
+  - estimate
+  - target
+  - commitment
+
 ### Introduction to Planning
 
 Recall of some terms introduced in other courses in this specialization:
