@@ -75,7 +75,10 @@ Velocity measurements are only valid if the environment is stable. Factors such 
 
 Velocity will generally more stable after a couple of sprints if the environment does not change and the work is done at a sustainable pace to avoid the team getting burned out.
 
-As with all statistics it is easy to cheat and interpret the data in different ways, this holds for measuring velocity. It is important to have a clear definition of done for a story to know the real velocity. This can be that the product owner accept the user story as done.
+As with all statistics it is easy to cheat and interpret the data in different ways, this holds for measuring velocity. It is important to have a clear definition of done for a story to know the real velocity. Being done can be that the product owner accept the user story as done or it can be that all the steps in a company defined process have been completed such as for example having .passing tests and having done a code review.
+
+### Time Boxing
+
 
 ## Module 3 Iteration Planning
 
