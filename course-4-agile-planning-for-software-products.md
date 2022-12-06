@@ -88,6 +88,14 @@ As with all statistics it is easy to cheat and interpret the data in different w
 
 ### Time Boxing
 
+A time box is a fixed interval in time, for example the coming three weeks. Time boxing is the creation of plan for what to complete in an upcoming time box, can be to chose a number of tasks from a backlog estimated to be able to be handled in the available time.
+
+Story points can be used when time boxing. Each task in the back log is assigned a number of story points. Assuming that the team have already completed some time boxes and that the it was tracked how many story points where completed so can it be known how many tasks to plan into the upcoming time box.
+
+A release can be done at the end of the time box if the combination of tasks completed adds up to something that the client can use.
+
+In Scrum a time box is known as a Sprint and time boxing is known as Sprint planning.
+
 ### Gantt Charts
 
 Gantt charts is a type of bar charts used to visualize project schedule and progress. This type of chart also shows dependencies among the tasks.
