@@ -14,7 +14,7 @@ Upon successful completion of this course, you will be able to:
 
 ## Module 1 Introduction to Planning
 
-Covers:
+Module 1 covers:
 
 - Major uncertainties that projects need to resolve
 - How to break down work into manageable pieces
@@ -59,6 +59,22 @@ Benefits of doing a work break down structure is:
 - Enables tracking of progress and resource planning
 
 ## Module 2 Project Planning
+
+Module 2 covers:
+
+- Story point
+- Task sizing
+- Velocity
+  - How to calculate a velocity estimate
+  - Factors influencing velocity
+  - What makes velocity stable
+- Concept of done
+  - How a story is only counted towards velocity if it is done
+- Time boxing
+  - Time boxing relation to Scrum
+- Release
+- Gantt Chart
+- Release plan.
 
 ### Story Points
 
