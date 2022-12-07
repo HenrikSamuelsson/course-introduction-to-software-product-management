@@ -124,6 +124,10 @@ There are obvious similarities between the Gantt charts and the waterfall model 
 
 Gantt charts can be used for low-level task tracking as well as high level release tracking.
 
+## Release Plans
+
+Release plans shows the expected feature growth of a product at the end of a defined time box. The intended audience of the release plan is both the client and the developers.
+
 ## Module 3 Iteration Planning
 
 ## Module 4 Risk Planning
