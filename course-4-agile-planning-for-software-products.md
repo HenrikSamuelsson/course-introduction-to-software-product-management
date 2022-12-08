@@ -130,4 +130,26 @@ Release plans shows the expected feature growth of a product at the end of a def
 
 ## Module 3 Iteration Planning
 
+Module 3 covers:
+
+- Good estimates
+- What affects estimates
+  - The Cone of Uncertainty
+- Approaches for creating estimates
+  - Bottom-up
+  - Analogy
+  - Experts
+- Calculate task estimation time by use of estimation formula
+- Understand task dependencies
+  - Start-start
+  - Start-finish
+  - Finish-start
+  - Finish-finish.
+- Critical path method (CPM) chart
+- Concept of slack
+- PERT chart
+- Differences between CPM chart PERT chart
+- Iteration planning
+- Concept of planning as self-assigned work done by developers; not assigned by clients
+
 ## Module 4 Risk Planning
