@@ -152,4 +152,14 @@ Module 3 covers:
 - Iteration planning
 - Concept of planning as self-assigned work done by developers; not assigned by clients
 
+## Estimating Task Time
+
+## Task Dependencies
+
+## Critical Path Method Chart
+
+## Pert Chart
+
+## Iteration Plan
+
 ## Module 4 Risk Planning
