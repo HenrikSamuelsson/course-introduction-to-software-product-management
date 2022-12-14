@@ -1,1 +1,4 @@
 resources/
+
+# DrawIO temporary files
+.$*
