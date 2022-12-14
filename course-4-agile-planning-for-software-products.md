@@ -158,6 +158,8 @@ Module 3 covers:
 
 ## Critical Path Method Chart
 
+Critical Path Method (CPM) charts is a visual way to organize task dependencies. Task that are dependent are linked together to form paths. By adding the time estimates for each task it is possible to find the path that will take the longest time to complete, this path is called the critical path. The critical path is the shortest time the project can be completed in, assuming multiple team members that work in parallel on different paths.
+
 ## Pert Chart
 
 ## Iteration Plan
