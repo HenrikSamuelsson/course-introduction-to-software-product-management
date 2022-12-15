@@ -1,6 +1,6 @@
 # Agile Planning for Software Products
 
-Notes on the the course Agile Planning for Software Products.
+Notes on the the course Agile Planning for Software Products. This is the fourth course in the Software Product Management Specialization.
 
 This course covers the techniques required to break down and map requirements into plans to drive software production.
 
