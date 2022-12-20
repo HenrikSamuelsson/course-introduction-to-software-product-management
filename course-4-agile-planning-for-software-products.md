@@ -152,16 +152,33 @@ Module 3 covers:
 - Iteration planning
 - Concept of planning as self-assigned work done by developers; not assigned by clients
 
-## Estimating Task Time
+### Task Dependencies
 
-## Task Dependencies
-
-## Critical Path Method Chart
+### Critical Path Method Chart
 
 Critical Path Method (CPM) charts is a visual way to organize task dependencies. Task that are dependent are linked together to form paths. By adding the time estimates for each task it is possible to find the path that will take the longest time to complete, this path is called the critical path. The critical path is the shortest time the project can be completed in, assuming multiple team members that work in parallel on different paths.
 
-## Pert Chart
+### Pert Chart
 
-## Iteration Plan
+### Iteration Plan
 
 ## Module 4 Risk Planning
+
+### Antipatterns
+
+Individual anti-patterns covered by lessons:
+
+- Micromanagement
+- Seagull management
+- Email as the primary means of communication
+- Loose cannons
+- Intellectual violence
+
+Originally the term loose cannon refereed to a cannon not tied down properly on a war ship causing it to roll away when fired causing havoc on the ship itself. The term loose cannon is today used as a term for an individual anti-pattern that refers to an unpredictable person in the team that make significant project decisions without consulting the rest of the team.
+
+### Causes of Failures
+
+### Risk Assessment Likelihood and Impact
+
+### Risk Strategies Contingency Mitigation
+
